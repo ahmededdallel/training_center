@@ -1,2 +1,2 @@
 # training_center
-in this project i try to creat a training center with the idenitification 
+i hope that this project can be helpful for you
